@@ -1,7 +1,9 @@
 {
   "need_update": true, 
-  "title" : "", 
-  "Optional_message" : "", 
+  "title" : "SoulProtect Update", 
+  "Optional_message" : "Please Update to the latest version to continue using it", 
   "version" : "", 
-  "download_url" :  "" 
+  "download_url" :  "", 
+  "signature" : "", 
+  "changelog" :"" 
 } 
