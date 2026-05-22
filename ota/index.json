@@ -3,7 +3,7 @@
   "title" : "SoulProtect Update", 
   "Optional_message" : "Please Update to the latest version to continue using it", 
   "version" : "j/W4l9b+8inWf1tFLQywJiWl4PPYBv9034UnCFgesQ\u003d\u003d", 
-  "download_url" :  "", 
+  "download_url" :  "https://example.com/files", 
   "signature" : "/cGFqGg13vOrfz0N59vtWiCwnZotKl4xkdKbbb7Paqxbe8okPtMWRYGArhhKumTNAf2puiA5/uWkRP1d/Dq+SCNE1JQ\u003d", 
   "changelog" : "Fixed Bugs and Improved General Stuff" 
 } 
